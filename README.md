@@ -1,16 +1,19 @@
-### Hi there 👋
+# 🧒​ Bienvenidos a mi repositorio ​🎲​ 
+## ​🤖​DATOS SOBRE MI 👾
+👋 Hi,
+### Mi nombre es Diego 🧙​
+### Tengo 18 años ​🧛​
+### Estudio la carrera de Ciencias de la Computacion
+### Estudio en la Universidad de Ingenieria y Tecnologia
+## Las cosas que me gustan son :
 
-<!--
-**DiegoBP7740/DiegoBP7740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudiar 📱
 
-Here are some ideas to get you started:
+- Experimentar 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programar 🆕
+
+- Jugar videojuegos ​🎮​👦🏻​
+- 😄
+
+![This is an image](https://talently.tech/blog/wp-content/uploads/2021/07/frames-768x497.png)
