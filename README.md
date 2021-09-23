@@ -5,9 +5,9 @@
 
 ### Tengo 18 años ​🧛​
 
-### Estudio la carrera de Ciencias de la Computacion 🖥💻
+### Estudio la carrera de Ciencias de la Computacion - CS 🖥💻
 
-### Estudio en la Universidad de Ingenieria y Tecnologia 📘📓
+### Estudio en la Universidad de Ingenieria y Tecnologia - UTEC📘📓
 
 ## Las cosas que me gustan son  ✨✨:
 
